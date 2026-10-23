@@ -16,8 +16,6 @@ Sem framework, sem build, sem dependências. Edite um arquivo, publique e pronto
 
 
 <img src="assets/preview.png" alt="Prévia do portfólio" width="900">
-=======
-<img src=".assets/preview-isaac.png" alt="Portfólio original de Isaac Mangelli Silva" width="900">
 
 <sub>↑ Prévia do modelo de portfólio.</sub>
 
