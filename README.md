@@ -14,7 +14,11 @@ Sem framework, sem build, sem dependências. Edite um arquivo, publique e pronto
 ![Dependências](https://img.shields.io/badge/dependências-zero-ff3b30?style=for-the-badge)
 ![Licença MIT](https://img.shields.io/badge/licença-MIT-informational?style=for-the-badge)
 
+<<<<<<< HEAD
 <img src="assets/preview.png" alt="Prévia do portfólio" width="900">
+=======
+<img src=".assets/preview-isaac.png" alt="Portfólio original de Isaac Mangelli Silva" width="900">
+>>>>>>> ce3db22e3a4770c481b1c6b95af671580f36e7b7
 
 <sub>↑ Prévia do modelo de portfólio.</sub>
 
